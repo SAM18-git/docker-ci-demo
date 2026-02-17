@@ -1,5 +1,4 @@
 name: Docker CI with Push
-
 on:
   push:
     branches: [ "main" ]
